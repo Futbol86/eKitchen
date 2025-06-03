@@ -11,7 +11,7 @@ Some awesome functions:
 
 - Demo url:** https://kitchen-app.moctrasoft.com/kitchen-design/edit/WQSTFDGNO8**
 
-  ![kitchen-app-main](https://github.com/user-attachments/assets/3357bbbc-6d9e-4b78-b0aa-efce537a5018)
+![kitchen-app-main](https://github.com/user-attachments/assets/3357bbbc-6d9e-4b78-b0aa-efce537a5018)
 
 ![kitchen-app-texture](https://github.com/user-attachments/assets/965e61a7-55a5-4183-bbd0-004c6026a542)
 
