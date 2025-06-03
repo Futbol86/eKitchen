@@ -9,7 +9,7 @@ Some awesome functions:
 - Display total money with all module that customer choice, if see over limit, they can reject expensive module and replay cheaper module
 - Attached with online payment when customers finished setup
 
-- Demo url:** https://kitchen-app.moctrasoft.com/kitchen-design/edit/WQSTFDGNO8**
+- Demo url: https://kitchen-app.moctrasoft.com/kitchen-design/edit/WQSTFDGNO8
 
 ![kitchen-app-main](https://github.com/user-attachments/assets/3357bbbc-6d9e-4b78-b0aa-efce537a5018)
 
